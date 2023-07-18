@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)]
+![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Akash Raghupathi</h1>
 <h3 align="center">Building the Web of Tomorrow and Turning Designs into Interactive Reality</h3>
 <img align = "right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Finstitute.careerguide.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fe426702edf874b181aced1e2fa5c6cde.gif&f=1&nofb=1&ipt=9d3ec2df9f05857adda516d991678ad681b5012e981775365c394a40d324bad6&ipo=images"
